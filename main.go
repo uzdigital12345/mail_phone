@@ -14,9 +14,9 @@ import (
 )
 
 const (
-	from = "kholikov.x@gmail.com"
-	pass = "Hamid123456"
-	to   = "kholikov.x@gmail.com"
+	from = "example@gmail.com"
+	pass = "password"
+	to   = "exmaple@gmail.com"
 
 
 	accountSid = "AC1503e08dd56cf5209b3503b03e7c1d1c"
